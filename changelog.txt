@@ -1,1 +1,51 @@
+ # Version 3.0
+    New! Added Trivia Quiz
+    New! Added Musics
+    New! Added Shorts Page for videos
+    New! Added Reactions for posts
+    New! Added Category and tags follow
+    New! Added Verified users
+    New! Added Permissions for verified users
+    New! Added Featured posts option
+    New! Added Featured post grid on homepage
+    New! Added Widgets page
+    New! Added Music player on homepage
+    New! Added Playlist option for Musics
+    New! Added New widgets
+    New! Added New private message system
+    New! Added Reactions page
+    New! Added Header Navigation Menu
+    New! Added Multiple polls 
+    New! Added Amazon S3 Cloud support
+    New! Added Subscription page
+    New! Added Explore page
+    New! Added Night mode 
+    New! Social links for users
+    New! Delete my account option for users
+    New! Live search 
+    New! Mega menu on header
+    Improved Page Speed
+    Fixed some bugs
+    
+     
+#Version 2.0
+    Added Polls
+    Added Lists
+    Added Google AMP
+    Added new post edit page
+    Added new Updates page
+    Added new Search page
+    Added new Profile page
+    Added Quick view option
+    Added Colors and Icons for categories
+    Added new social share
+    Changed upload system
+    Added descriptions for posts
+    Improved Page Speed
+    Improved to php 7.4 
+    Improved mobile view
+    Fixed some bugs
+
+#Version  1.0
+    first Release
 
