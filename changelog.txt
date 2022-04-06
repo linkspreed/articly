@@ -1,3 +1,8 @@
+ # Version 3.0.1
+    Fixed Trivia and Poll in quick view
+    Fixed List create page bugs
+    Fixed some bugs
+ 
  # Version 3.0
     New! Added Trivia Quiz
     New! Added Musics
